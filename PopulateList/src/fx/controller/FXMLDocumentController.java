@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package populatelist;
+package fx.controller;
 
 import model.Person;
 import jpa.controller.PersonJpaController;
